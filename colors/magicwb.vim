@@ -48,7 +48,7 @@ hi Search         guifg=#FFA997 guibg=#7B7B7B
 " Syntax highlighting
 hi Comment 		    guifg=#7B7B7B gui=italic
 hi Todo 		      guifg=#ffffff guibg=#AB907C gui=italic
-hi Constant 	    guifg=#AB907C gui=none
+hi Constant 	    guifg=#AFAFAF gui=none
 hi String 		    guifg=#FFA997 gui=italic
 hi Identifier 	  guifg=#3B67A2 gui=none
 hi Function 	    guifg=#3B67A2 gui=none
