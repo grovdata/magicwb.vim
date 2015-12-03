@@ -52,9 +52,9 @@ hi Constant 	    guifg=#AFAFAF gui=none
 hi String 		    guifg=#FFA997 gui=italic
 hi Identifier 	  guifg=#3B67A2 gui=none
 hi Function 	    guifg=#3B67A2 gui=none
-hi Type 		      guifg=#3B67A2 gui=none
+hi Type 		      guifg=#000000 gui=none
 hi Statement 	    guifg=#3B67A2 gui=none
-hi Keyword		    guifg=#3B67A2 gui=none
-hi PreProc 		    guifg=#FFA997 gui=none
+hi Keyword		    guifg=#000000 gui=none
+hi PreProc 		    guifg=#3B67A2 gui=none
 hi Number		      guifg=#AFAFAF gui=none
 hi Special		    guifg=#e7f6da gui=none
